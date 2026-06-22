@@ -1,7 +1,5 @@
 # CommuteMate
 
-## Abstract
-
 CommuteMate is a web-based application designed to help SFU students commute to the Burnaby campus more efficiently, reliably, and affordably. The platform connects student drivers and riders who have similar routes and schedules, making carpooling easier within the SFU community. Unlike traditional navigation applications, CommuteMate combines real-time transit information, weather conditions on Burnaby Mountain, and student-focused ride matching in a single platform. By improving access to transportation alternatives during transit disruptions and adverse weather conditions, the application aims to reduce commuting costs, alleviate parking congestion, and improve the overall student experience.
 
 ## Problem Statement
