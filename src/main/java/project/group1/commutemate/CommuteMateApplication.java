@@ -1,13 +1,13 @@
-package project.group1.carpool;
+package project.group1.commutemate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarpoolApplication {
+public class CommuteMateApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarpoolApplication.class, args);
+		SpringApplication.run(CommuteMateApplication.class, args);
 	}
 
 }

@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>project.group1</groupId>
-	<artifactId>carpool</artifactId>
+	<artifactId>commutemate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>carpool</name>
+	<name>CommuteMate</name>
 	<description/>
 	<url/>
 	<licenses>
